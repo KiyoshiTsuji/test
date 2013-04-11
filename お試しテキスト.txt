@@ -2,4 +2,8 @@
 
 add from gitub.com
 
+<<<<<<< HEAD
 add from PC
+=======
+add from github.com2
+>>>>>>> 5b70440d373313e560592b84981f006b1aa42e37
